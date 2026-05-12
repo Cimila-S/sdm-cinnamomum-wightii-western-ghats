@@ -27,6 +27,10 @@ Development, Hyderabad (2nd Best Paper Award)
 - Outputs directly applicable to ecological restoration targeting and 
   long-term conservation planning under climate change scenarios
 
+## Habitat Suitability Map
+<img width="227" height="380" alt="Habitat suitability map for Cinnamomum wightii" src="https://github.com/user-attachments/assets/a72829b5-c24d-497d-8e6e-07515933aae1" />
+Warmer colours indicate higher predicted suitability. AUC = 0.976.
+
 ## Tools used
 MaxEnt 3.4.1 · ArcGIS (ArcMap 10.4.1) · WorldClim · NRSC biodiversity databases
 
