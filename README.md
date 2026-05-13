@@ -35,4 +35,4 @@ Warmer colours indicate higher predicted suitability. AUC = 0.976.
 MaxEnt 3.4.1 · ArcGIS (ArcMap 10.4.1) · WorldClim · NRSC biodiversity databases
 
 ## Files
-presentation/ — Conference presentation slides (NRSC/ISRO, 2022)
+presentation/ — Cimila-SDM-Cinnamomum.pptx
